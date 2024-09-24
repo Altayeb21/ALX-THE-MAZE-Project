@@ -6,9 +6,10 @@ Since I was a child I admired video games, from snake on nokia phones to atari g
 
 project blog post: https://www.linkedin.com/posts/abobaker-eltom-3a1a90147_activity-7196348105389178881-eytZ?utm_source=share&utm_medium=member_desktop .
 
-My linkedin Profile: https://www.linkedin.com/in/abobaker-eltom-3a1a90147/ .
+My linkedin Profile: 
+https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav
+wep1.
 
-wep1
 
 Installation: use gcc compiler with SDL flags to compile all .c files to make the executable.
 
